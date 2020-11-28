@@ -58,7 +58,6 @@ list=(
 arcolinux-cwm-git
 arcolinux-config-cwm-git
 arcolinux-cwm-dconf-git
-arcolinux-openbox-themes-git
 polybar
 arcolinux-polybar-git
 arcolinux-nitrogen-git
