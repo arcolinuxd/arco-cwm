@@ -63,7 +63,8 @@ gmrun
 gtk2-perl
 gtk-engine-murrine
 imagemagick
-lxappearance-obconf
+lxappearance
+sxhkd
 lxrandr
 nitrogen
 perl-linux-desktopfiles
