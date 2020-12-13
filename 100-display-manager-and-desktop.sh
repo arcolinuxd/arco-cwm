@@ -48,7 +48,7 @@ echo "Installation of the core software"
 
 list=(
 lightdm
-arco-cwm
+arcolinux-cwm
 arcolinux-cwm-git
 arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
