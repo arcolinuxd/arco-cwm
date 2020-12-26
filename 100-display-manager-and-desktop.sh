@@ -54,6 +54,8 @@ arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
 arcolinux-wallpapers-git
 arcolinux-logout-git
+arcolinux-polybar-git
+polybar
 )
 
 count=0
