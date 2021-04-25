@@ -47,11 +47,9 @@ echo "Installation of the core software"
 ###############################################################################
 
 list=(
-lightdm
+sddm
 cwm
 arcolinux-cwm-git
-arcolinux-lightdm-gtk-greeter
-arcolinux-lightdm-gtk-greeter-settings
 arcolinux-wallpapers-git
 arcolinux-logout-git
 arcolinux-polybar-git
@@ -76,10 +74,10 @@ cp -Rf ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S)
 cp -arf /etc/skel/. ~
 
 tput setaf 5;echo "################################################################"
-echo "Enabling lightdm as display manager"
+echo "Enabling sddm as display manager"
 echo "################################################################"
 echo;tput sgr0
-sudo systemctl enable lightdm.service -f
+sudo systemctl enable sddm.service -f
 
 tput setaf 7;echo "################################################################"
 echo "You now have a very minimal functional desktop"
