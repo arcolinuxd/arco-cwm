@@ -56,7 +56,7 @@ func_category Arcolinux-Desktop
 
 list=(
 arcolinux-cwm-git
-arcolinux-config-cwm-git
+arcolinux-config-all-desktops-git
 arcolinux-cwm-dconf-git
 polybar
 arcolinux-polybar-git
