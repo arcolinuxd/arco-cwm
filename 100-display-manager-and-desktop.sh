@@ -51,7 +51,7 @@ sddm
 cwm
 arcolinux-cwm-git
 arcolinux-wallpapers-git
-arcolinux-logout-git
+archlinux-logout-git
 arcolinux-polybar-git
 polybar
 )
