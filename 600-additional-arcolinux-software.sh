@@ -67,7 +67,7 @@ thunar
 thunar-archive-plugin
 thunar-volman
 xfce4-terminal
-arcolinux-xfce-git
+arconet-xfce
 arcolinux-local-xfce4-git
 )
 
