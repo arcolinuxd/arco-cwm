@@ -58,8 +58,6 @@ list=(
 arcolinux-cwm-git
 arcolinux-config-all-desktops-git
 arcolinux-dconf-all-desktops-git
-polybar
-arcolinux-polybar-git
 arcolinux-nitrogen-git
 arcolinux-common-git
 yad
